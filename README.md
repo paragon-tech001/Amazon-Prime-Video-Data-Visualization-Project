@@ -18,6 +18,8 @@ In the era of digital streaming, platforms like Amazon Prime Video have revoluti
 
 ## Data Description
 
+![](https://github.com/paragon-tech001/Amazon-Prime-Video-Data-Visualization-Project/blob/main/Data%20source.PNG)
+
 >**_The dataset used in this project is sourced from Kaggle and contains comprehensive information about the shows and movies available on Amazon Prime Video. The key attributes in the dataset include:_**
 1. _Title:_ The name of the show or movie.
 2 _Type:_ Indicates whether the content is a TV show or a movie.
@@ -27,6 +29,8 @@ In the era of digital streaming, platforms like Amazon Prime Video have revoluti
 6. _Rating:_ The viewer rating of the content.
 
 ## Data Cleaning and Preparation
+
+![](https://github.com/paragon-tech001/Amazon-Prime-Video-Data-Visualization-Project/blob/main/Data%20model.PNG)
 
 - **_Missing Values:_** I identified and handled missing values through imputation and omission where necessary.
 - **_Data Consistency:_** I ensured consistency in genre and country names by standardizing entries.
